@@ -1,0 +1,18 @@
+.employee-view-title {
+    margin: 0 auto;
+}
+
+.employee-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    max-height: 100vh;
+    min-width: 75vw;
+    max-width: 75vw;
+}
+
+.employee-card-container .card {
+    max-width: 34vw;
+}

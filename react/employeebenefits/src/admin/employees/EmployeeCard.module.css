@@ -1,0 +1,10 @@
+.card {
+    min-height: 30vh;
+    max-height: 30vh;
+    margin: 10px;
+    overflow: auto;
+}
+
+.card-title {
+   border-bottom: 1px solid black;
+}

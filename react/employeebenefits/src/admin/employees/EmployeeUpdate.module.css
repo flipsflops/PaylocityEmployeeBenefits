@@ -1,0 +1,9 @@
+.checkbox-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.checkbox-container-title {
+    display: block;
+    width: 100%;
+}
