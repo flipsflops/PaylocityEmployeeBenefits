@@ -24,7 +24,7 @@
 -   The Web app's front-end portion is built-off of the initial set-up from create-react-app. Styling is done through (2) main tools--CSS Modules and bootstrap/reactstrap. The file-structure features a central hub for exporting and importing via index.js files.
 -   The Web app's business logic for employee benefits cost is currently done dynamically and can be seen when you go to View Employees-> Right-click an employee card-> Left-click Update.
 -   You are able to view all employees within the RDS-deployed MSSQL server on the front-end. Update, delete functionality is not implemented
--   The Web app's middle-tier is built-off of the initial set-up from .NET's Web App API.
+-   The Web app's middle-tier is built-off of the initial set-up from .NET's Web App API. The middle-tier also features implementation of Dapper. Dapper is used to map over basic column values and JSON as well. To be specific, Employees have Dependents which is returned in JSON format
 
 ## To-do
 
