@@ -1,5 +1,3 @@
-# Developer Requirements
-
 ## React
 
 -   Will `npm install`
@@ -8,7 +6,7 @@
 
 ## .NET
 
--   Will build the main .sln file which causes all projects in dotnet can build
+-   Will build the main .sln file which causes all projects in dotnet to build
 
 ## SQL
 
